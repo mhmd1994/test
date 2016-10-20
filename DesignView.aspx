@@ -78,7 +78,7 @@
                 <asp:BoundField DataField="Project_Currency" HeaderText="Project_Currency" SortExpression="Project_Currency" />
                 <asp:BoundField DataField="Project_Impact" HeaderText="Project_Impact" SortExpression="Project_Impact" />
                 <asp:BoundField DataField="Project_Duration" HeaderText="Project_Duration" SortExpression="Project_Duration" />
-                <asp:CommandField ShowEditButton="True" ShowInsertButton="True" />
+                <asp:CommandField ShowDeleteButton="True" ShowEditButton="True" ShowInsertButton="True" />
             </Fields>
         </asp:DetailsView>
     
